@@ -1,0 +1,75 @@
+body{
+	background: linear-gradient(to bottom, black 65%, rgba(0,0,0,0)),
+				url(tenor.gif);
+	background-size: 100%;
+	color: white; 
+}
+h1{
+	border-bottom: 2px solid white;
+}
+.figure{
+	margin: 25px 0 0 100px;
+	width: 40%;
+	padding: 10px;
+	font-size: 40px;
+	animation-name: text;
+    animation-duration: 1.5s;
+	animation-fill-mode: forwards;
+}
+.t-shirt{
+	width: 20%;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 50px;
+	float: left;
+}
+#t-shirt-1{
+	width: 90%;
+	margin: auto;
+}
+#t-shirt-2{
+	width: 55%;
+	margin: 10% auto;
+}
+#t-shirt-3{
+	margin: 10% auto;
+	width: 55%;
+}
+#div-1, #div-2, #div-3{
+	margin-left: 10%;
+	animation-name: t-shirt;
+    animation-duration: 1.25s;
+	animation-fill-mode: forwards;
+	margin-bottom: 100px;
+}
+.t-shirt img{
+	display: table-cell;
+    vertical-align: middle;
+
+}
+hr{
+	color: white;
+	clear: both;
+	width: 90%;
+	margin: 0 auto;
+}
+p{
+	margin-left: 0 auto;
+	text-align: center;
+	font-size: 25px;
+}
+@keyframes text{
+	from {margin-left:0px; top:0px;}
+	to {margin-left:100px; top:0px;}
+}
+@keyframes t-shirt{
+	from {margin-top:0px}
+	to {margin-top:50px}
+}
+.t-shirt:hover{
+	border: 2px solid grey;
+}
+::selection{
+	background: white;
+	color: black;
+}

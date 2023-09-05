@@ -1,0 +1,29 @@
+<!DOCTYPE>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Michael Jordan</title>
+	<link rel="stylesheet" href="playerStyle.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="basketball.ico" type="image/x-icon">
+</head>
+<body background="mj.jpg" style="background-size: 110%">
+	<article>
+		<div class="mainPage transition"><a href="basket_head.html">Main page</a></div>
+		<div class="figure">
+			<h1 class="head">Michael Jordan</h1>
+			<p>He played fifteen seasons in the National 
+			Basketball Association (NBA), 
+			winning six NBA championships with the Chicago Bulls. 
+			Jordan is the principal owner and chairman of the 
+			Charlotte Hornets of the NBA and of 23XI Racing
+			in the NASCAR Cup Series. 
+			His biography on the official NBA website states: 
+			"By acclamation, Michael Jordan is the greatest basketball
+			player of all time." He was integral in popularizing 
+			the NBA around the world in the 1980s and 1990s,
+			becoming a global cultural icon in the process.</p>
+		<div>
+	</article>
+</body>
+</html>

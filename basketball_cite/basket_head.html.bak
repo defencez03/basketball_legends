@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Basketball Legends</title>
+	<link rel="stylesheet" href="basketStyle.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="basketball.ico" type="image/x-icon">
+</head>
+<body>
+	<article>
+		<div class="figure"><h1 class="head">Basketball Legends</h1></div>
+		<div class="t-shirt" id="div-1"><a href="Michael_Jordan.html"><img src="t-shirtMJ.png" id="t-shirt-1"></a></div>
+		<div class="t-shirt" id="div-2"><a href="Shaquille_Rashaun_O'Neal.html"><img src="maikaShaq.png" id="t-shirt-2"></a></div>
+		<div class="t-shirt" id="div-3"><a href="Kobe_Bryant.html"><img src="maikaKobe.png" id="t-shirt-3"></a></div>
+		<hr>
+		<p>This site provides brief information about the star basketball players of all time.</p>
+		<!--<img src="tenor.gif" width="100%">-->
+	</article>
+</body>
+</html>

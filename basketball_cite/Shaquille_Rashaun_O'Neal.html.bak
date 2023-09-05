@@ -1,0 +1,24 @@
+<!DOCTYPE>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Shaquille Rashaun O'Neal</title>
+	<link rel="stylesheet" href="playerStyle.css" type="text/css">
+	<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
+	<link rel="shortcut icon" href="basketball.ico" type="image/x-icon">
+</head>
+<body background="shaq.jpg" style="background-size: 110%">
+	<article>
+		<div class="mainPage transition"><a href="basket_head.html">Main page</a></div>
+		<div class="figure">
+			<h1 class="head">Shaquille Rashaun O'Neal</h1>
+			<p>Shaquille Rashaun O'Neal, 
+			known commonly as "Shaq" ,is an American former professional 
+			basketball player who is a sports analyst on the television program Inside the NBA.
+			O'Neal is regarded as one of the greatest basketball players and centers of all time.
+			He is a 7-foot-1-inch (2.16 m) and 325-pound (147 kg) center who played for six teams 
+			over his 19-year career in the National Basketball Association (NBA) and is a four-time NBA champion.</p>
+		<div>
+	</article>
+</body>
+</html>
